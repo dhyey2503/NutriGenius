@@ -1,4 +1,5 @@
 NutriGenius 🍽️
+
 NutriGenius is an AI-powered meal planning assistant designed to help users overcome the challenges of creating personalized, nutritious, and convenient meal plans. By leveraging cutting-edge language technologies and user input, NutriGenius generates tailored 7-day meal plans, complete with detailed nutritional info and smart food swap suggestions.
 
 🚩 Problem Statement
