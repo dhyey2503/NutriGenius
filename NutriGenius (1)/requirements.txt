@@ -1,0 +1,17 @@
+next
+react
+react-dom
+tailwindcss
+autoprefixer
+postcss
+zod
+@shadcn/ui
+@genkit-ai/core
+@genkit-ai/googleai
+@genkit-ai/ai
+clsx
+lucide-react
+eslint
+typescript
+@types/react
+@types/node
